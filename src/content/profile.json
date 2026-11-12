@@ -4,13 +4,13 @@
   "avatar": "/images/avatar/avatar.jpg",
   "links": [
     {
-      "label": "Website",
+      "label": "Instagram",
       "href": "#",
       "icon": "/images/icons/links/0/icon.svg"
     },
     {
-      "label": "Social",
-      "href": "#",
+      "label": "Email",
+      "href": "mailto:#",
       "icon": "/images/icons/links/1/icon.svg"
     },
     {
